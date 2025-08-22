@@ -75,3 +75,35 @@ Functions used:
 3. Run the main script:  
    ```matlab
    main
+
+
+Select an input MRI image when prompted (.jpg).
+
+The system will display:
+
+Input image
+
+Filtered image
+
+Tumor mask
+
+Bounding box
+
+Tumor outline
+
+Final detected tumor
+
+
+🚀 Future Enhancements
+
+Support for 3D MRI scans (volumetric data)
+
+Integration with deep learning for improved accuracy
+
+Automated threshold selection (Otsu’s method)
+
+# 
+
+Core concepts: Image Processing & Anisotropic Diffusion (Perona-Malik filter)
+
+Dataset: Any MRI brain images (publicly available or medical datasets)
