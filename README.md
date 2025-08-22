@@ -77,30 +77,30 @@ Functions used:
    main
 
 
-Select an input MRI image when prompted (.jpg).
+4. Select an input MRI image when prompted (.jpg).
 
 The system will display:
 
-Input image
+- Input image
 
-Filtered image
+- Filtered image
 
-Tumor mask
+- Tumor mask
 
-Bounding box
+- Bounding box
 
-Tumor outline
+- Tumor outline
 
-Final detected tumor
+- Final detected tumor
 
 
 🚀 Future Enhancements
 
-Support for 3D MRI scans (volumetric data)
+- Support for 3D MRI scans (volumetric data)
 
-Integration with deep learning for improved accuracy
+- Integration with deep learning for improved accuracy
 
-Automated threshold selection (Otsu’s method)
+- Automated threshold selection (Otsu’s method)
 
 # 
 
